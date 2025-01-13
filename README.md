@@ -1,7 +1,7 @@
 
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-DistriAI-BSI-PPML is a machine learning framework based on privacy protection of data, algorithms, and models.
+SuperNet-BSI-PPML is a machine learning framework based on privacy protection of data, algorithms, and models.
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
